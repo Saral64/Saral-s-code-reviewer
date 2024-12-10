@@ -65,7 +65,10 @@ Feel free to fork the repository and contribute! Open a pull request with improv
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License although, read the disclaimer.
+### Disclaimer
+This project integrates with Google Cloud's Gemini 1.5 model for AI-powered code reviews. While the code in this repository is licensed under the MIT License, the use of Google Cloud services, including the Gemini model, is governed by their respective terms and conditions. 
+
 
 ---
 
